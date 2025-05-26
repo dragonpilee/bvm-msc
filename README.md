@@ -1,55 +1,59 @@
 # Heart ASCII Art
 
-This is a simple Java program that prints a heart shape using ASCII art.
+![Java](https://img.shields.io/badge/Language-Java-red)
+![ASCII Art](https://img.shields.io/badge/Type-ASCII%20Art-orange)
 
-## Usage
+> **Developed by Alan Cyril Sunny**  
+> If you find this project helpful, please consider ⭐ [starring the repository](https://github.com/dragonpilee/heart-ascii-art)!
 
-To run the program, simply compile and execute the `Heart.java` file using a Java compiler:
+---
 
-
-# Heart ASCII Art
-
-This is a simple Java program that prints a heart shape using ASCII art.
-
-## Usage
-
-To run the program, simply compile and execute the `Heart.java` file using a Java compiler:
-
-# Heart ASCII Art
+## 💖 Heart ASCII Art
 
 This is a simple Java program that prints a heart shape using ASCII art.
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 - Java
 
-## Usage
+---
+
+## 🚀 Usage
 
 To run the program, simply compile and execute the `Heart.java` file using a Java compiler:
 
 ```bash
 javac Heart.java
 java Heart
-
-
+```
 
 This will output the heart shape to the console.
 
-Example Output
+---
 
+## 🎨 Example Output
+
+```
    ***   
  *     * 
 (   ♥   )
  *     * 
    ***
+```
 
+---
 
-Author
-This program was written by ALAN CYRIL.
+## 👤 Author
+
+This program was written by **Alan Cyril Sunny**.
 
 Feel free to modify and share this code!
 
-THis repo contains some another JAVA codes
+---
 
-JAVA 4 Life...
+> This repo contains some other JAVA codes  
+> JAVA 4 Life...
 
+---
